@@ -1,0 +1,6 @@
+﻿This project is intended as a set of tools to aid in the creation of a PhP 7  Websocket server. Functions are kept to a minimum, simple and concise. Verification of protocol integrity and regulations is out of scope. 
+
+Functionality currently provided:
+-Encryption/Decryption of Websocket (rfc6455) frames.  
+
+Bytephunk. 

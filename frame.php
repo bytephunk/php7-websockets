@@ -3,7 +3,7 @@
  * @author BytePhunk bytephunk.wordpress.com, github.com/bytephunk
  * 
  * Basic websocket protocol frame encoding/decoding according to the rfc6455 specifications. 
- * Namely these functions encode/decode dataframes in use AFTER the protocol handshake. No protocol extensionsincluded nor checkup for data integrity and protocol observance.
+ * Namely these functions encode/decode dataframes in use AFTER the protocol handshake. No protocol extensions included nor checkup for data integrity and protocol observance.
  * 
  * Documentation about protocol specifics can be found at https://tools.ietf.org/html/rfc6455
  */ 
